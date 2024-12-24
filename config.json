@@ -1,0 +1,19 @@
+{
+    "token": "MTA1OTgzOTg3Mjc3MDI0ODcwNQ.G1aStY.iUdy3jz8fuLINuRfw4QHvMrgaw_3pxp80QsY5w",
+    "target": "https://growtopiagame.com/detail",
+    "owner": 232086070697787392,
+    "proxy": {
+        "enable": true,
+        "host": "31.44.4.28",
+        "port": 10032,
+        "username": "",
+        "password": ""
+    },
+    "server": [
+        {
+            "channelId": 1064766596922478593,
+            "channelNotify": 1080984499678101564,
+            "role": 1065470004448985190
+        }
+    ]
+}
